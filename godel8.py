@@ -1,6 +1,6 @@
 """
-CAUSION: To use on SMALL files ONLY !!!
-          DO NOT USE ON LARGE FILES !!!
+CAUSION: Use on SMALL files ONLY !!!
+         DO NOT USE ON LARGE FILES !!!
 """
 
 import argparse
